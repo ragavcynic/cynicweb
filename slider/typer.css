@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+
+padding: 0;
+}
+
+
+.container{
+    width: 100%;
+    height: 100vh;
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: table;
+    background-image: url("https://images4.alphacoders.com/973/973967.jpg");
+}
+.container2{
+    width: 100%;
+    height: 100vh;
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: table;
+    background-image: url("https://images7.alphacoders.com/737/thumbbig-737400.webp");
+}
+.container3{
+    width: 100%;
+    height: 100vh;
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: table;
+    background-image: url("https://images8.alphacoders.com/632/thumbbig-632051.webp");
+}
+h1{
+    font-size: 5rem;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
